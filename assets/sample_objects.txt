@@ -1,0 +1,22 @@
+Objetos recomendados para demonstrar:
+- pessoa
+- garrafa
+- celular
+- notebook
+- livro
+- copo
+- cadeira
+- teclado
+- mouse
+- mochila
+- controle remoto
+
+Sugestao de demonstracao:
+1. Apareca na camera para detectar pessoa.
+2. Mostre uma garrafa.
+3. Mostre um celular.
+4. Mostre um livro ou notebook.
+5. Pressione S para salvar print.
+6. Pressione R para gravar video.
+7. Pressione Q para finalizar.
+8. Mostre os arquivos gerados na pasta outputs.

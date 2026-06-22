@@ -1,0 +1,22 @@
+﻿# Ambiente Python
+.venv/
+__pycache__/
+*.pyc
+
+# Saídas e builds
+outputs/
+dist/
+build/
+*.spec
+*.pt
+
+# Vídeos
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Locais
+.env
+.DS_Store
+roteiro_apresentacao.md
